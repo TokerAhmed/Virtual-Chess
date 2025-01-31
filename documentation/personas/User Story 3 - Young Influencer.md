@@ -1,0 +1,5 @@
+# Persona Chess Influencer :: Matt Gibson 
+___
+Ricky Rune is a 26-year-old semi-amateur chess player and a social media influencer with a large following. Hailing from Brooklyn, NY, Ricky utilized his proximity to Washington Square Park to gain social media fame by playing impromptu chess games, as well as recording some of the crazier games occurring in the park. Ricky now uses his platform to travel to different cities where International Chess Federation (ICF) tournaments are happening so he can cover the events and play impromptu games with fans along the way in his travels. 
+___
+Ricky needs a quick and easy chess application to play fans on or practice his game himself. He needs an undo feature so if he makes mistakes, he can reassess his strategy, as well as other variable settings such as a variable timer, and changeable themes to suit different lighting environments he may be in while playing. Lastly, Ricky loves being able to either drag-and-drop or click to make his moves, so Ricky wants variability in how he can make moves in the application. 
