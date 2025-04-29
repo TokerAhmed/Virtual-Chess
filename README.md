@@ -124,3 +124,6 @@ Click here to view the full documentation for Virtual Chess: https://github.com/
 [forks-url]: https://github.com/cis3296s24/03-VirtualChess/network/members
 [issues-shield]: https://img.shields.io/github/issues/cis3296s24/03-VirtualChess.svg?style=for-the-badge
 [issues-url]: https://github.com/cis3296s24/03-VirtualChess/issues
+
+### Snapshot of the app
+<img src="src\main\resources\assets\snapshot\Screenshot 2025-04-29 002924.png" alt="App Screenshot" width="500"/>
