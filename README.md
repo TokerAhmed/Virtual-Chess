@@ -126,4 +126,4 @@ Click here to view the full documentation for Virtual Chess: https://github.com/
 [issues-url]: https://github.com/cis3296s24/03-VirtualChess/issues
 
 ### Snapshot of the app
-<img src="src\main\resources\assets\snapshot\Screenshot 2025-04-29 002924.png" alt="App Screenshot" width="500"/>
+<img src="src\main\resources\assets\snapshot\Screenshot 2025-04-29 002924.png" alt="App Screenshot"/>
