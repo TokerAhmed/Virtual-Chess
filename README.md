@@ -127,3 +127,4 @@ Click here to view the full documentation for Virtual Chess: https://github.com/
 
 ### Snapshot of the app
 ![Screenshot](src/main/resources/assets/snapshot/Menu.png)
+<img src="src\main\resources\assets\snapshot\pvp1.png" alt="snapshot"/>
