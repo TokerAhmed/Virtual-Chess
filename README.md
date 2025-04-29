@@ -125,6 +125,6 @@ Click here to view the full documentation for Virtual Chess: https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/cis3296s24/03-VirtualChess.svg?style=for-the-badge
 [issues-url]: https://github.com/cis3296s24/03-VirtualChess/issues
 
-### Snapshot of the app
+### Snapshots of the app
 ![Screenshot](src/main/resources/assets/snapshot/Menu.png)
 <img src="src\main\resources\assets\snapshot\pvp1.png" alt="snapshot"/>
